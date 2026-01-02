@@ -27,7 +27,7 @@ I am a results-driven Data Analyst focused on automating financial workflows and
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Mustansar Ahmed](https://www.linkedin.com/in/muhammad-mustansir-967367265)
+* **LinkedIn:** [Mustansar ](https://www.linkedin.com/in/muhammad-mustansir-967367265)
 * **Email:** mustansar.official.pk@gmail.com
 
 ---
