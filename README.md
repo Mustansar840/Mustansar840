@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ### 👨‍💻 Terminal: `mustansar@riyadh:~$`
 
@@ -26,10 +25,14 @@ user@mustansar:~$ ./contact
 > Email: mustansar.official.pk@gmail.com
 > Phone: +966 53 386 1091
 
-## 🛠 Technical Skills
-Category,Technologies
-Operating Systems,"Windows 10/11, Linux (Ubuntu/Kali), MacOS"
-IT Support,"Hardware Repair, Printer Setup, Driver Installation, Office 365"
-Networking,"TCP/IP, DNS, DHCP, WiFi Configuration, LAN Cabling"
-Programming,"Python (Pandas/Automation), C++, SQL, HTML/CSS"
-Tools,"VS Code, Git/GitHub, MS Excel (Advanced), Photoshop"
+#🛠 Technical Skills
+# Loading Skill Matrix...
+_________________________________________________________________________________
+| 𝐂𝐀𝐓𝐄𝐆𝐎𝐑𝐘             |        𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒                                   |
+|_______________________|________________________________________________________|
+| 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬      | Windows 10/11, Linux (Ubuntu/Kali), MacOS              |
+| 𝐈𝐓 𝐒𝐮𝐩𝐩𝐨𝐫𝐭             | Hardware Repair, Printer Setup, Driver Fixes, Office365|
+| 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠            | TCP/IP, DNS, DHCP, WiFi Config, LAN Cabling             |
+| 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠          | Python (Automation), C++, SQL, HTML/CSS                 |
+| 𝐓𝐨𝐨𝐥𝐬                 | VS Code, Git/GitHub, MS Excel (Advanced), Photoshop     |
+|______________________|_________________________________________________________|
