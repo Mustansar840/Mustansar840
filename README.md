@@ -1,37 +1,35 @@
-### Hi there, I'm Mustansar 👋
-**Software Engineer | IT Support Specialist | Python Automation**
-📍 *Based in Riyadh, Saudi Arabia (Transferable Iqama)*
+<div align="center">
 
-I am a versatile Technical Specialist who bridges the gap between **Hardware Support** and **Software Engineering**. I solve complex IT problems, from fixing dead laptops to automating office workflows with Python.
+# Hi there, I'm Mustansar Ameer 👋
+### 👨‍💻 Software Engineer | IT Support Specialist | Python Developer
+📍 *Riyadh, Saudi Arabia (Transferable Iqama)*
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=25F708&center=true&vCenter=true&width=500&lines=System+Initialized...;Loading+IT+Support+Modules...;Installing+Windows+%26+Linux...;Python+Automation+Ready.;Hire+Me!" alt="Typing SVG" /></a>
 
-### 🚀 What I Do
-* 🛠 **IT Support & Troubleshooting:** Expert in installing **Windows 10/11, Linux (Ubuntu/Kali)**, and resolving hardware/software conflicts.
-* 🖥️ **System Administration:** Setting up Office 365, Printers, Scanners, and Local Area Networks (LAN/WiFi).
-* 🤖 **Automation:** Creating Python scripts to automate boring daily tasks (Billing Systems, Excel Data Entry).
+</div>
 
 ---
 
-### 🛠 Tech & Tools
-| Category | Skills |
-| :--- | :--- |
-| **OS & Support** | Windows 10/11, Linux, MacOS, Hardware Repair, Driver Fixes |
-| **Networking** | WiFi Setup, Router Config, IP Addressing, Cabling |
-| **Languages** | Python, C++, HTML/CSS, SQL |
-| **Tools** | VS Code, Git/GitHub, MS Office (Expert), Photoshop |
+### 👨‍💻 Terminal: `mustansar@riyadh:~$`
 
----
+```bash
+# User Access Granted
+user@mustansar:~$ whoami
+> Software Engineer with expertise in IT Support, Hardware Troubleshooting & Automation.
 
-### 💡 Featured Projects
-**1. Automated Billing System (Python)**
-* A desktop app for shops to generate invoices automatically (POS Logic).
-* *Tech:* Python, Tkinter, Database.
+user@mustansar:~$ ./current_status.sh
+> 🔭 Role: IT Support Specialist / Desktop Engineer
+> ⚡ Superpower: Fixing Hardware, Installing OS (Linux/Windows) & Python Scripting
+> 🐧 OS Skill: sudo apt-get install solution
 
-**2. Jarvis AI Assistant**
-* Voice-activated assistant for automating desktop tasks.
-* *Tech:* Python, Speech Recognition.
+user@mustansar:~$ ./contact
+> Email: mustansar.official.pk@gmail.com
+> Phone: +966 53 386 1091
 
----
-
-📫 **Contact Me:** [mustansar.official.pk@gmail.com](mailto:mustansar.official.pk@gmail.com)
+## 🛠 Technical Skills
+Category,Technologies
+Operating Systems,"Windows 10/11, Linux (Ubuntu/Kali), MacOS"
+IT Support,"Hardware Repair, Printer Setup, Driver Installation, Office 365"
+Networking,"TCP/IP, DNS, DHCP, WiFi Configuration, LAN Cabling"
+Programming,"Python (Pandas/Automation), C++, SQL, HTML/CSS"
+Tools,"VS Code, Git/GitHub, MS Excel (Advanced), Photoshop"
