@@ -1,37 +1,37 @@
 ### Hi there, I'm Mustansar 👋
+**Software Engineer | IT Support Specialist | Python Automation**
+📍 *Based in Riyadh, Saudi Arabia (Transferable Iqama)*
 
-**Data Analyst | Python Automation Specialist | ZATCA E-Invoicing Expert** 📍 *Based in Riyadh, Saudi Arabia*
-
-I am a results-driven Data Analyst focused on automating financial workflows and ensuring regulatory compliance through code. My expertise lies in bridging the gap between raw Excel data and actionable insights using Python.
-
----
-
-### 🚀 What I'm Working On
-- 🔭 **ZATCA Compliance:** Building automated ETL pipelines for Saudi VAT E-Invoicing (Phase 1 & 2).
-- 📊 **Data Automation:** Transforming manual Excel tasks into one-click Python scripts using `Pandas` and `OpenPyXL`.
-- 💻 **Web Development:** Creating responsive departmental portals using HTML5/CSS3.
-
-### 🛠️ Tech Stack
-* **Languages:** Python, SQL, JavaScript
-* **Data Analysis:** Pandas, NumPy, Matplotlib
-* **Automation:** Selenium, FPDF, QRcode Generation (TLV/Base64)
-* **Tools:** Git, VS Code, Excel (Advanced)
+I am a versatile Technical Specialist who bridges the gap between **Hardware Support** and **Software Engineering**. I solve complex IT problems, from fixing dead laptops to automating office workflows with Python.
 
 ---
 
-### 🌟 Featured Project: [Saudi VAT Invoice Automation](https://github.com/Mohsin301Official/Saudi-VAT-Invoice-Automation-ZATCA)
-> *A Python-based solution to generate ZATCA-compliant tax invoices with cryptographic QR codes.*
-> * **Tech:** Python, Pandas, FPDF, Arabic-Reshaper
-> * **Outcome:** Automates 50+ invoices in seconds with 100% VAT calculation accuracy.
+### 🚀 What I Do
+* 🛠 **IT Support & Troubleshooting:** Expert in installing **Windows 10/11, Linux (Ubuntu/Kali)**, and resolving hardware/software conflicts.
+* 🖥️ **System Administration:** Setting up Office 365, Printers, Scanners, and Local Area Networks (LAN/WiFi).
+* 🤖 **Automation:** Creating Python scripts to automate boring daily tasks (Billing Systems, Excel Data Entry).
 
 ---
 
-### 📫 Connect with Me
-* **LinkedIn:** [Mustansar ](https://www.linkedin.com/in/muhammad-mustansir-967367265)
-* **Email:** mustansar.official.pk@gmail.com
+### 🛠 Tech & Tools
+| Category | Skills |
+| :--- | :--- |
+| **OS & Support** | Windows 10/11, Linux, MacOS, Hardware Repair, Driver Fixes |
+| **Networking** | WiFi Setup, Router Config, IP Addressing, Cabling |
+| **Languages** | Python, C++, HTML/CSS, SQL |
+| **Tools** | VS Code, Git/GitHub, MS Office (Expert), Photoshop |
 
 ---
 
-### 📊 GitHub Stats
-[![Mustansar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsin301Official&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin301Official&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 💡 Featured Projects
+**1. Automated Billing System (Python)**
+* A desktop app for shops to generate invoices automatically (POS Logic).
+* *Tech:* Python, Tkinter, Database.
+
+**2. Jarvis AI Assistant**
+* Voice-activated assistant for automating desktop tasks.
+* *Tech:* Python, Speech Recognition.
+
+---
+
+📫 **Contact Me:** [mustansar.official.pk@gmail.com](mailto:mustansar.official.pk@gmail.com)
